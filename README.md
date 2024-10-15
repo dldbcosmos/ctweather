@@ -16,11 +16,13 @@ OpenWeatherMap API를 활용하여 3일간의 날씨 정보를 조회하는 파�
     - 'pip install requests'
 3. 사용 예시
     - package 설치
+      
       python -m pip install ctweather
       
       ![pip_img](https://github.com/user-attachments/assets/665a6585-043b-42ec-bdeb-9188e45d6951)
 
-    -test
+    - test
+      
        from ctwther import wea
        wea.test('오늘 뉴욕 날씨는 어때')
       ![test_img](https://github.com/user-attachments/assets/407f0a48-49ea-43be-9214-addc4d00a8f4)
