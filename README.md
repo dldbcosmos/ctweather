@@ -24,7 +24,9 @@ OpenWeatherMap API를 활용하여 3일간의 날씨 정보를 조회하는 파�
     - test
       
        from ctwther import wea
+      
        wea.test('오늘 뉴욕 날씨는 어때')
+      
       ![test_img](https://github.com/user-attachments/assets/407f0a48-49ea-43be-9214-addc4d00a8f4)
 
 
