@@ -13,5 +13,5 @@ OpenWeatherMap API를 활용하여 3일간의 날씨 정보를 조회하는 파�
       
 2. 필요 파이썬 패키지를 설치합니다.
 
-    - 'pip install requests
+    - 'pip install requests'
 3.  
