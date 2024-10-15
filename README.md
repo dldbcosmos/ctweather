@@ -28,5 +28,10 @@ OpenWeatherMap API를 활용하여 3일간의 날씨 정보를 조회하는 파�
        wea.test('오늘 뉴욕 날씨는 어때')
       
       ![test_img](https://github.com/user-attachments/assets/407f0a48-49ea-43be-9214-addc4d00a8f4)
-
+      
+### requirements
+    numpy==1.26.4
+    spacy==3.8.2
+    ko_core_news_sm==3.8.0
+    googletrans==3.1.0
 
