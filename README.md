@@ -13,7 +13,8 @@ OpenWeatherMap API를 활용하여 3일간의 날씨 정보를 조회하는 파�
       
 2. 필요 파이썬 패키지를 설치합니다.
 
-    - 'pip install requests'
+    - 'python -m pip install -r requirements.txt'
+        
 3. 사용 예시
     - package 설치
       
@@ -21,6 +22,10 @@ OpenWeatherMap API를 활용하여 3일간의 날씨 정보를 조회하는 파�
       
       ![pip_img](https://github.com/user-attachments/assets/665a6585-043b-42ec-bdeb-9188e45d6951)
 
+    - spacy 한글 
+  
+      python -m spacy download ko_core_news_sm
+      
     - test
       
        from ctwther import wea
