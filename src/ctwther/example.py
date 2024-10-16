@@ -1,5 +1,5 @@
 
 import wea
 
-wea.test('오늘 뉴욕 날씨 어때?')
+wea.test('내일 제주 날씨 어때?')
 
